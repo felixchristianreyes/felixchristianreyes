@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Christian! An Aspiring Web Developer
 - 👀 I’m interested in books and tech!
-- 🌱 I’m currently learning Javascript along with DOM Manipulation.
+- 🌱 I’m currently learning ReactJS along with better code format and responsive design.
 - 💞️ I’m looking to collaborate on any project as long as I am welcome :)
 - 📫 How to reach me: felix.christian.reyes@gmail.com
 
