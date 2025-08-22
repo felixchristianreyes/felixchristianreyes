@@ -13,12 +13,12 @@
 
 ### Fullstack Engineer
 
-[cite_start]Experienced Fullstack Engineer with a proven track record of building scalable web applications and leading high-performing teams[cite: 4]. [cite_start]I specialize in designing robust solutions, optimizing performance, and working with modern cloud technologies on both AWS and Google Cloud Platform[cite: 50].
+Experienced Fullstack Engineer with a proven track record of building scalable web applications and leading high-performing teams.
+I specialize in designing robust solutions, optimizing performance, and working with modern cloud technologies on both AWS and Google Cloud Platform.
 
-- [cite_start]🔭 **Currently:** I am leading a 4-person fullstack team at TenSixty, where we are building a software for the real-estate industry that features AI Assisted Video Generation[cite: 9, 10].
-- 🌱 **Learning:** I'm currently diving deeper into the world of Web3 and decentralized applications.
+- 🔭 **Currently:** I am leading a fullstack team at TenSixty, where we are building a software for the real-estate industry that features AI Assisted Video Generation.
 - 👯 **Collaboration:** I'm open to collaborating on innovative open-source projects in my free time.
-- [cite_start]📫 **How to reach me:** `felix.christian.reyes@gmail.com` 
+- 📫 **How to reach me:** `felix.christian.reyes@gmail.com` 
 
 ---
 
