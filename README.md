@@ -11,12 +11,11 @@
 
 ---
 
-### Fullstack Engineer
+### Software Engineer
 
-Experienced Fullstack Engineer with a proven track record of building scalable web applications and leading high-performing teams.
+Experienced Software Engineer with a proven track record of building scalable web applications and leading high-performing teams.
 I specialize in designing robust solutions, optimizing performance, and working with modern cloud technologies on both AWS and Google Cloud Platform.
 
-- 🔭 **Currently:** I am leading a fullstack team at TenSixty, where we are building a software for the real-estate industry that features AI Assisted Video Generation.
 - 👯 **Collaboration:** I'm open to collaborating on innovative open-source projects in my free time.
 - 📫 **How to reach me:** `felix.christian.reyes@gmail.com` 
 
@@ -39,6 +38,7 @@ I specialize in designing robust solutions, optimizing performance, and working 
   <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"></a>
   <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
   <a href="#"><img alt="TRPC" src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white"></a>
+  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
   <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
 </p>
 
